@@ -10,13 +10,13 @@
 
 ## 📝 Thématiques du Colloque
 
-- 🌱 **Innovation verte et durabilité**  
-- 📊 **Normes IFRS et ESG**  
-- 💼 **Gouvernance, éthique et digitalisation**  
-- 📈 **Dynamique et stabilité des marchés financiers à l’ère de la digitalisation**  
-- 💰 **Enjeux fiscaux à l’ère numérique**  
-- 🤖 **Entrepreneuriat responsable, intelligence artificielle et nouvelles pratiques managériales**  
-- 📣 **CRM & marketing digital**
+-  **Innovation verte et durabilité**  
+-  **Normes IFRS et ESG**  
+-  **Gouvernance, éthique et digitalisation**  
+-  **Dynamique et stabilité des marchés financiers à l’ère de la digitalisation**  
+-  **Enjeux fiscaux à l’ère numérique**  
+-  **Entrepreneuriat responsable, intelligence artificielle et nouvelles pratiques managériales**  
+-  **CRM & marketing digital**
 
 ---
 
