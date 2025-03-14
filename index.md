@@ -75,3 +75,6 @@ Abdelfattah Bouri (FSEG Sfax), Anis Ben Amar (ESC Sfax), Anis Jarboui (ISAA Sfax
 <iframe src="Affiche.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 ---
+<div align="center">
+  <img src="Image1.png" alt="Université de Sfax" height="60" style="margin: 20px;" />
+</div>
