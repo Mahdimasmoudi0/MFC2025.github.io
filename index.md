@@ -75,5 +75,3 @@ Abdelfattah Bouri (FSEG Sfax), Anis Ben Amar (ESC Sfax), Anis Jarboui (ISAA Sfax
 <iframe src="Affiche.pdf" width="100%" height="600px" style="border: none;"></iframe>
 
 ---
-
-![Affiche du Colloque](https://github.com/user-attachments/assets/54160541-e276-4af4-9b96-e9fbcfa9fc52)
