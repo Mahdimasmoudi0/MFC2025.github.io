@@ -1,7 +1,7 @@
-# 🌐 MSF 2025 — Multidisciplinary Science Forum
+# 🌐 MFC 2025 — 
 
-📍 **Paris, France**  
-📅 **June 12–14, 2025**
+📍 **Hammamet, Tunisie**  
+📅 **Juin 19–21, 2025**
 
 ---
 
